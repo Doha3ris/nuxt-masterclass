@@ -1,0 +1,7 @@
+// Good practices
+* {
+  margin: 0;
+  padding: 0;
+  // include padding when defining length or width of element
+  box-sizing: border-box;
+}
